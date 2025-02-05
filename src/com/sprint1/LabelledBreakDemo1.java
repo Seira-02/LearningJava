@@ -1,3 +1,5 @@
+package com.sprint1;
+
 public class LabelledBreakDemo1 {
     public static void main(String[] args){
         int i,j;

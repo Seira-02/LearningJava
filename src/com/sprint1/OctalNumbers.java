@@ -1,4 +1,5 @@
-import java.sql.SQLOutput;
+package com.sprint1;
+
 import java.util.Scanner;
 public class OctalNumbers {
     public static void main(String[] args){

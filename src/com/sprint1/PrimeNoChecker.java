@@ -1,3 +1,5 @@
+package com.sprint1;
+
 import java.util.*;
 public class PrimeNoChecker {
     public static void main(String[] args){

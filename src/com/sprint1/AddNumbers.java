@@ -1,3 +1,5 @@
+package com.sprint1;
+
 import java.util.Scanner;
 
 public class AddNumbers {
