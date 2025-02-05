@@ -12,9 +12,7 @@ public class ArmstrongNumber {
 
         while(num!= 0){
             int temp = num%10;
-            System.out.println(temp);
             sum += Math.pow(temp, 3);
-            System.out.println(sum);
             num = num/10;
             System.out.println(num);
         }
